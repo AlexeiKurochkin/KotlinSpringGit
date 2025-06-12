@@ -6,4 +6,5 @@ fun main() {
 
     println("Количество заказов: $numberOfOrders")
     println(stringThankForPurchase)
+
 }
